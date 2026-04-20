@@ -1,6 +1,6 @@
 {
   "course_id": "",
-  "current_state": "in-revision",
+  "current_state": "published",
   "current_version": "0.2.0",
   "state_history": [
     {
@@ -57,6 +57,14 @@
       "to_state": "in-revision",
       "author": "naresh.macky@gmail.com",
       "comment": "Interactive html",
+      "version": "0.2.0"
+    },
+    {
+      "timestamp": "2026-04-20T08:46:41.487536Z",
+      "from_state": "in-revision",
+      "to_state": "published",
+      "author": "naresh.macky@gmail.com",
+      "comment": "good",
       "version": "0.2.0"
     }
   ]
