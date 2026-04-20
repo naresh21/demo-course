@@ -1,7 +1,7 @@
 {
   "course_id": "",
-  "current_state": "published",
-  "current_version": "0.1.0",
+  "current_state": "draft",
+  "current_version": "0.2.0",
   "state_history": [
     {
       "timestamp": "2026-04-20T07:54:02.881549Z",
@@ -41,6 +41,14 @@
       "to_state": "published",
       "author": "naresh.macky@gmail.com",
       "comment": "added l2",
+      "version": "0.1.0"
+    },
+    {
+      "timestamp": "2026-04-20T08:44:52.971655Z",
+      "from_state": "published",
+      "to_state": "draft",
+      "author": "naresh.macky@gmail.com",
+      "comment": "Returned to draft from v0.1.0",
       "version": "0.1.0"
     }
   ]
