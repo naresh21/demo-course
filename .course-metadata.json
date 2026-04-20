@@ -1,6 +1,6 @@
 {
   "course_id": "",
-  "current_state": "in-revision",
+  "current_state": "published",
   "current_version": "0.1.0",
   "state_history": [
     {
@@ -33,6 +33,14 @@
       "to_state": "in-revision",
       "author": "naresh.macky@gmail.com",
       "comment": "added lesson 2",
+      "version": "0.1.0"
+    },
+    {
+      "timestamp": "2026-04-20T08:00:30.374767Z",
+      "from_state": "in-revision",
+      "to_state": "published",
+      "author": "naresh.macky@gmail.com",
+      "comment": "added l2",
       "version": "0.1.0"
     }
   ]
