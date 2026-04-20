@@ -1,0 +1,15 @@
+{
+  "course_id": "",
+  "current_state": "in-revision",
+  "current_version": "0.0.0",
+  "state_history": [
+    {
+      "timestamp": "2026-04-20T07:54:02.881549Z",
+      "from_state": "draft",
+      "to_state": "in-revision",
+      "author": "naresh.macky@gmail.com",
+      "comment": "moving to draft",
+      "version": "0.0.0"
+    }
+  ]
+}
