@@ -1,6 +1,6 @@
 {
   "course_id": "",
-  "current_state": "draft",
+  "current_state": "in-revision",
   "current_version": "0.2.0",
   "state_history": [
     {
@@ -50,6 +50,14 @@
       "author": "naresh.macky@gmail.com",
       "comment": "Returned to draft from v0.1.0",
       "version": "0.1.0"
+    },
+    {
+      "timestamp": "2026-04-20T08:46:07.123914Z",
+      "from_state": "draft",
+      "to_state": "in-revision",
+      "author": "naresh.macky@gmail.com",
+      "comment": "Interactive html",
+      "version": "0.2.0"
     }
   ]
 }
